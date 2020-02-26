@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "262470588428",
+    "firebase_url": "https://beaconproject-fa41e.firebaseio.com",
+    "project_id": "beaconproject-fa41e",
+    "storage_bucket": "beaconproject-fa41e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262470588428:android:fed8a5b1fa1802f6",
+        "android_client_info": {
+          "package_name": "com.example.dell.beaconproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262470588428-49927ts67pu3q9gsjk270ctdh1pdjokp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.beaconproject",
+            "certificate_hash": "55182b4c3cd57fa54178f7d74c640234103ee749"
+          }
+        },
+        {
+          "client_id": "262470588428-qv5tsrlptr7454o3k1f46b7an1o6r4os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNiCYDvCIapN6j7TfT8vCf07Iqujs34CU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262470588428-qv5tsrlptr7454o3k1f46b7an1o6r4os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
